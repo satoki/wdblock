@@ -1,0 +1,29 @@
+{
+
+  "manifest_version": 2,
+  "name": "WdBlock",
+  "version": "1.0",
+  "description": "Blocks annoying donation ads on Wikipedia.",
+  "developer": {
+    "name": "satoki",
+    "url": "https://github.com/satoki"
+  },
+
+  "icons": {
+    "48": "wdblock_icon.png"
+  },
+
+  "applications": {
+    "gecko": {
+      "id": "satoki@satoki"
+    }
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.wikipedia.org/*"],
+      "css": ["wdblock.css"]
+    }
+  ]
+
+}
