@@ -13,13 +13,15 @@ Please use after donating.
 <img src="https://github.com/satoki/wdblock/blob/images/01.png" width=70%>  
 
 #### After
-<img src="https://github.com/satoki/wdblock/blob/images/02.png" width=70%>
+<img src="https://github.com/satoki/wdblock/blob/images/02.png" width=70%>  
 
 ## Usage
 
 Same as other add-ons.  
 他のアドオンと同じ。  
 
+[WdBlock](https://addons.mozilla.org/ja/firefox/addon/wdblock/)  
+
 ## Author
 
-[Satoki](https://github.com/satoki)
+[Satoki](https://github.com/satoki)  
