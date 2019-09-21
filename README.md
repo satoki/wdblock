@@ -10,7 +10,8 @@ Please use after donating.
 Šñ•t‚µ‚½Œã‚Åg‚Á‚Ä‚­‚¾‚³‚¢B  
 
 #### Before
-<img src="https://github.com/satoki/wdblock/blob/images/01.png" width=70%>
+<img src="https://github.com/satoki/wdblock/blob/images/01.png" width=70%>  
+
 #### After
 <img src="https://github.com/satoki/wdblock/blob/images/02.png" width=70%>
 
