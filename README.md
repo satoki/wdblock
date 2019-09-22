@@ -20,7 +20,17 @@ Please use after donating.
 Same as other add-ons.  
 他のアドオンと同じ。  
 
-[WdBlock](https://addons.mozilla.org/ja/firefox/addon/wdblock/)  
+#### Firefox
+
+[WdBlock - mozilla.org](https://addons.mozilla.org/ja/firefox/addon/wdblock/)  
+
+｢about:debugging#/runtime/this-firefox｣->｢Load Temporary Add-on…｣  
+｢about:debugging#/runtime/this-firefox｣->｢一時的なアドオンの読み込み中...｣  
+
+#### Chrome
+
+｢chrome://extensions/｣->｢Developer mode｣->｢Load unpacked｣  
+｢chrome://extensions/｣->｢デベロッパー モード｣->｢パッケージ化されていない拡張機能を読み込む｣  
 
 ## Author
 
