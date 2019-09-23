@@ -8,7 +8,6 @@ FirefoxとChrome用。
 
 Please use after donating.  
 寄付した後で使ってください。  
-
 [:)](https://github.com/satoki/wdblock/blob/images/wd.png)  
 
 #### Before
