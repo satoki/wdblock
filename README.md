@@ -9,6 +9,8 @@ FirefoxとChrome用。
 Please use after donating.  
 寄付した後で使ってください。  
 
+[:)](https://github.com/satoki/wdblock/blob/images/wd.png)  
+
 #### Before
 <img src="https://github.com/satoki/wdblock/blob/images/01.png" width=70%>  
 
