@@ -24,6 +24,8 @@ Same as other add-ons.
 
 [WdBlock - mozilla.org](https://addons.mozilla.org/ja/firefox/addon/wdblock/)  
 
+or  
+
 ｢about:debugging#/runtime/this-firefox｣->｢Load Temporary Add-on…｣  
 ｢about:debugging#/runtime/this-firefox｣->｢一時的なアドオンの読み込み中...｣  
 
