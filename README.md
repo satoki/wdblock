@@ -1,7 +1,7 @@
 # WdBlock
 Blocks annoying donation ads on Wikipedia.  
 For Firefox,Chrome.  
-ウィキペディアの寄付広告をブロックする。  
+ウィキペディアの迷惑な寄付広告をブロックする。  
 FirefoxとChrome用。  
 
 ## Demo
